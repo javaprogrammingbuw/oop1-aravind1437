@@ -22,6 +22,8 @@ public class SoccerPlayer {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	//Intendation!
 	
 		public void redCard() {
 			

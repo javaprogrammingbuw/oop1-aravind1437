@@ -6,6 +6,8 @@ public class SoccerTeam {
 	private int tablePosition;
 	private int goalsScored;
 	private int goalsAgainst;
+
+	//Intendation!
 	
 	private SoccerPlayer[] players= new SoccerPlayer[11];
 	
